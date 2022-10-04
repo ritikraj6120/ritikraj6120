@@ -10,7 +10,6 @@ Hi 👋, I'm Ritik Raj
 - 🌱 I’m currently learning web development
 - 💬 Ask me about anything
 - 📫 How to reach me **ritikraj6120@gmail.com**
-- 🐧 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritik-raj6120/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
