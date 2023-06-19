@@ -1,13 +1,14 @@
 <h1 align="center">
-Hi 👋, I'm Ritik Raj
+Hi 👋, Myself Ritik Raj
 </h1> 
 <h3 align="center">
-4th year CSE student at NIT Jaipur
+Currently interning as a data engineer @Micron Technology and have a good experience in full stack development and focusing more on the backend and cloud technologies. 
 </h3>
 
 
-- 🔭 I’m currently working on creating video/audio chat app that have inbuilt code editor and white board using socket.io, webrtc, react and node
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on Expense tracker Application using Spring Boot and React.
+- 🌱 Currently learning new technology related to Backend and Big Data domain.
+- :eyeglasses: Trying to do open source contribution. 
 - 💬 Ask me about anything
 - 📫 How to reach me **ritikraj6120@gmail.com**
 
