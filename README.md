@@ -2,11 +2,11 @@
 Hi 👋, Myself Ritik Raj
 </h1> 
 <h3 align="center">
-Currently interning as a data engineer @Micron Technology and have a good experience in full stack development and focusing more on the backend and cloud technologies. 
+Currently software developer @Micron Technology and have a good experience in full stack development and focusing more on the backend and cloud technologies. 
 </h3>
 
 
-- 🔭 I’m currently working on Expense tracker Application using Spring Boot and React.
+- 🔭 Software developer proficient in Mern stack as well as in python
 - 🌱 Currently learning new technology related to Backend and Big Data domain.
 - :eyeglasses: Trying to do open source contribution. 
 - 💬 Ask me about anything
